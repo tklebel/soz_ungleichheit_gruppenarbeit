@@ -19,9 +19,21 @@ Ausgehend von den Klassikern der Soziologie: Durkheim: Formen der Solidarität
     + Was für Gründe gibt es dafür?
 
 
+Soziale Ungleichheit als Determinante für Radikalisierung
+
+
+### Räumliche Segregation - Ghettoisierung
+
+### Atypische Beschäftigungsverhältnisse
+
+### Bedingungsloses Grundeinkommen
+
 Die Analysedimensionen beachten:
 
 - Determinanten
 - Ursachen (Mechanismus)
 - Dimension 
 - Auswirkungen
+
+
+
