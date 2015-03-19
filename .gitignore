@@ -1,0 +1,7 @@
+
+
+# apple files
+*.DS_Store
+
+# word files
+*.docx
