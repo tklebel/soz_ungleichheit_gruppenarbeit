@@ -5,3 +5,16 @@
 
 # word files
 *.docx
+
+
+# R files
+*.Rhistory
+
+# spss files
+*.sav
+*.por
+
+
+# pdf files, da sie nicht öffentlich sein sollten
+*.pdf
+
