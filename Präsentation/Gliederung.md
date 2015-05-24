@@ -14,7 +14,7 @@
 - Zusammenfassung?
 
 
-Anderse gegliedert:
+**Alternativ**:
 
 - Einleitung
 - Allgemeine Untersuchungen (mit Sachweh)
