@@ -1,0 +1,110 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Legitimierung sozialer Ungleichheit</title>
+    
+    <meta name="description" content="Eine Präsentation für die LV 'Spezielle Soziologie: Soziale Ungleichheit'" />
+    <meta name="author" content="Thomas Klebel" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+    <link href="css/impress.css" rel="stylesheet" />
+    
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+<body class="impress-not-supported">
+
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+    <!--
+        
+        So to make a summary of all the possible attributes used to position presentation steps, we have:
+        
+        * `data-x`, `data-y`, `data-z` - they define the position of **the center** of step element on
+            the canvas in pixels; their default value is 0;
+        * `data-rotate-x`, `data-rotate-y`, 'data-rotate-z`, `data-rotate` - they define the rotation of
+            the element around given axis in degrees; their default value is 0; `data-rotate` and `data-rotate-z`
+            are exactly the same;
+        * `data-scale` - defines the scale of step element; default value is 1
+        
+        These values are used by impress.js in CSS transformation functions, so for more information consult
+        CSS transfrom docs: https://developer.mozilla.org/en/CSS/transform
+        
+    -->
+
+
+<!--
+     
+    To change the duration of the transition between slides use `data-transition-duration="2000"` giving it
+    a number of ms. It defaults to 1000 (1s).
+    
+-->
+<div id="impress">
+
+    <div id="ZEIT-zitat" class="step" data-x="1400" data-y="1600" data-z="-10000" data-scale="1">
+    <p>"Tatsächlich ist es tröstlich, zu wissen, dass die meisten Bestandteile des Erfolgs auf Zufall, Schicksal und Geburt beruhen. Erfolgreiche Menschen sind selten bessere und auch nur selten tüchtigere Menschen. Erfolglose müssen die Ursache ihrer Schlechterstellung deshalb auch nicht bei sich selber suchen, (...). Tatsächlich haben sie lediglich Pech gehab. Man darf sie nicht verachten." (DIE ZEIT XY)</p>
+    </div>
+
+    <div id="title" class="step" data-x="1400" data-y="2500" data-z="-10000" data-scale="1">
+        <h1>Legitimierung sozialer Ungleichheit</h1>
+        <h3>Ein Referat von Bla, Bla Bla Bla Bla</h3>
+    </div>
+
+
+
+
+
+
+    <div id="übersicht" class="step slide" data-x="-1000" data-y="-1500">
+        <h1>Übersicht</h1>
+        <ul>
+            <li>Bla</li>
+            <ul>
+                <li>Unterbla</li>
+                <li>Unterbla 2</li>
+            </ul>
+            <li>Bla2</li>
+        </ul>
+    </div>
+
+
+
+
+
+    <div class="step slide" data-x="0" data-y="-1500">
+        <q>git init</q>
+        <p>For the first 10 years of kernel maintenance, we literally used <b>tarballs and patches</b>, which is a much superior source control management system than CVS is.</p>
+        <p><em>There is no way to do CVS right.</em></p>
+        <p style="float: right">Linus Torvalds<p>
+    </div>
+
+    <div id="stupid" class="step" data-x="0" data-y="0" data-rotate="90" data-scale="2">
+        <q>"Should I hacked together a stupid content tracker during my weekend so I can stop using this CVS/SVN shit?!?"</q><br />
+        <span class="footnote">or so thought Linus, and over a few months ...</span>
+    </div>
+
+    <!-- Überblick über den ganzen Canvas -->
+    <div id="overview" class="step" data-x="1400" data-y="1600" data-scale="12">
+    </div>
+
+  
+
+</div>
+
+
+<!-- Scripts for impress -->
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+
+</body>
+</html>
