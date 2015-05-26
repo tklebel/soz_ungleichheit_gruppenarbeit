@@ -2,35 +2,30 @@
 
 **Rechtfertigung und Legitimation sozialer Ungleichheit**
 
-- Einleitung
-- Theorie
-    + Sachweh
-    + kognitive Dissonanz
-- Empirie
-    + Ergebnisse von Sachweh
-        * Quantitative Befunde (Zusammengefasst in 3.2)
-        * Qualitative Befunde zu Legitimationsstrategien (8 und 9)
-    + Ergebnisse aus dem Paper
-- Zusammenfassung?
-
-
-**Alternativ**:
-
-- Einleitung
-- Allgemeine Untersuchungen (mit Sachweh)
-    + theoretische Perspektiven
-        * Gerechtigkeit
-            - Leistungsprinzip
-            - Bedarfsprinzip
-            - Gleichheit
-                + Chancen
-                + Ergebnis
-        * Diskussion, dass es auch evtl. mehr Formen der Ungleichheitswahrnehmung gibt als nur die Frage der Gerechtigkeit (Sachweh 96ff)
-        * relative Deprivation
-    + quantitative Befunde (aus der Zusammenfassung in 3.2)
-    + qualitative Befunde zu Legitimationsstrategien (Kapitel 8 und 9)
-    + Meritokratie: Leistungsprinzip ist eigentlich nur Rechtfertigung
-- Kognitive Dissonanz
+- Zitat (Gri)
+- Titel-Folie
+- Überblick über Abschnitte
+- Theoretische Konzepte der Legitimierung sozialer Ungleichheit (mit Sachweh)
+    + relative Deprivation (3.1) (Klemens)
+        * Darstellung
+        * Probleme
+        * empirische Befunde
+    + Gerechtigkeit (Thomas)
+        * Leistungsprinzip
+        * Bedarfsprinzip
+        * Gleichheit
+            - Chancen
+            - Ergebnis
+        * Diskussion, dass es auch evtl. mehr Formen der Ungleichheitswahrnehmung gibt als nur die Frage der Gerechtigkeit (Sachweh 96ff) -> Überleitung zum nächsten Punkt (Manuel)
+        * Alternative Formen der Ungleichheitslegitimation (Kapitel 9.2)
+- Kognitive Dissonanz (Michael)
     + Theoretische Einführung in das Konzept
     + Darstellung der Untersuchung mittels des Konzepts (Paper)
-- Zusammenfassung?
+- Zusammenfassung (Gri)
+    + Diskussion: Wie sollten knappe oder begehrte Güter in der Gesellschaft verteilt werden?
+    + Beispiel: Positionen zum Erbrecht
+        * Leute in vier Gruppen teilen
+            - Leistungsprinzip
+            - Bedarfsprinzip
+            - Chancengleichheit
+            - Ergebnisgleichheit
