@@ -53,7 +53,7 @@
     + Leistungsprinzip
         * ökonomische Sphäre (wer verdient wie viel?)
         * instrumentelle soziale Beziehungen (was ist damit genau gemeint?)
-    + Bedarf- und Leistungsprinzip
+    + Bedarf- und Gleichheitsprinzip
         * solidarisch-gemeinschaftlichen Beziehungen (Familie)
         * sozialer Nahbereich (enge Freunde/Verwandte)
         * politische Sphäre (alle Stimmen wiegen gleich viel)
@@ -67,7 +67,7 @@
 
 - Leistungsprinzip historisch ein Fortschritt gegenüber der Vererbung (in Feudalgesellschaften)
 - Definition: Leistungsprinzip
-    + Person *verdient* den Genuss bestimmter Vorteile, wenn sie einie Leistung erbracht hat
+    + Person *verdient* den Genuss bestimmter Vorteile, wenn sie eine Leistung erbracht hat
         * Leistung muss auf die Person zurückgeführt werden können (die Leistung, die genau diese eine Person erbracht hat)
         * Leistung muss intentional erfolgt sein (also nicht zufällig)
         * Leistung muss von der Geinschaft positiv bewertet und geschätzt sein (erfolgreicher Aufbau eines Drogenkartells und damit großer Reichtum zählt wohl nicht dazu)
@@ -91,11 +91,10 @@
 
 ## 9.1.2 - Bedarfsgerechtigkeit
 
-- Bedarf == gesellschaftlich geteilte Norm an einem Minimum, das jedeR zum Leben braucht (Defintion noch einmal kontrollieren)
+- Bedarf == kolletiv validierbare Bedürfnisse. Sind also sozial vermittelt. Man kann von "Bereitstellung eines soziokulturellen Existenzminimums" sprechen. gesellschaftlich geteilte Norm über ein Minimum, das jedeR zum Leben braucht. Grundlage ist eine als "allgemeingütltig und [als] 'normal' anerkannte Lebensweise"
 - Wird von allen Schichten geteilt: es müsse jeder genug zum Leben haben
 - Das kann aber nur durch Umverteilung erreicht werden (nimmt Sachweh selbstredend an). -> Frage: Welcher Grad an Umverteilung wird als legitim erachtet? 
-    + Grundsatz der Umverteilung wird geteilt
-        * Es geht nicht um Neidgefühle (wie in den Medien dargestellt), sonden um die "Bereitstellung eines soziokulturell definierten Existenzminimus"
+    + Grundsatz der Umverteilung wird von allen Schichten geteilt. (auch quantitative Befunde sprechen dafür)
     + Ausmaß ist unterschiedlich:
         * "Niedrigere" Schichten befürworten stärkere Umverteilung.
     + Grad der Umverteilung ist akzeptabel, so lange die Einkommenshierarchie gleich bleibt. Insofern ist es also mit dem Leistungsprinzip in Einklang zu bringen: Leute "oben" sollen ruhig mehr Steuern zahlen, so lange sie nicht netto weniger haben also Leute "unten"
@@ -106,7 +105,38 @@ Leistungs- und Bedarfsgerechtigkeit sind also nur scheinbar widersprüchlich. F�
 
 ## 9.1.3 Gleichheit
 
-- Chancengleichheit und Ergebnisgleichheit
+Unterscheidung in:
+- Ergebnisgleichheit
+    + Gesellschaftliche begehrte Güter und Ressourcen (Einkommen und Bildungsabschlüsse) wären gleich verteilt
+- Chancengleichheit
+    + Jedes Gesellschaftsmitglied sollte die gleichen Chancen auf das Erlangen der begehrten Ressourcen haben
+        * Insofern: Diskriminierungsverbot. Herkunft oder Geschlecht sollen keinen Einfluss auf die Chance haben, eine gewisse Berufsposition oder einen Bildungsabschluss zu erreichen
+
+**Ergebnisse**
+
+- Chancengleichheit wird viel stärker von der oberen Klasse (Obere Dienstklasse und Selbstständige) thematisiert
+    + Sie stellen einen "faktischen Mangel an Chancengleichheit in D" fest
+    + Chancengleichheit bildet für die oberen auch einen *normativen Bezugspunkt*. Auf den berufen sie sich bei der Kritik von Ungleichheitsverhältnissen, und sie sehen es auch als politische Aufgabe, Chancengleichheit herzustellen
+    + Sie betonen aber, dass es neben dem vom Staat bereitzustellenden Rahmenbedingnungen auch die individuellen Begabungen, Willen, Anstrengungsbereitschaft und Entscheidungen gäbe. (Ein Ausgleich von individuellen Begabungen im Rahmen der Chancengleichheit wird also nicht angestrebt)
+    + **Legitimation**
+        * Ungleichheit wird also als illegitim erachtet, wenn sie auf einem Mangel an (staatlich zu fördernder) Chancengleichheit fußt
+        * Sofern die Rahmenbedingungen stimmen, und Ungleichheiten auf Unterschiedliche Begabungen, Entscheidungen, Anstrengungen zurückgeführt werden können ist sie gerechtfertigt
+        * Insofern passt die Chancengleichheit von der Semantik her zum Leistungsprinzip: Alle "Erfolge" sollen also auf die Leistung der einzelnen Person zurückgeführt werden können, und nicht auf strukturelle Privilegierungen oder Diskriminierungen
+    + Für Angehörige der unteren Schichten war die Chancengleichheit nicht von so hoher Bedeutung: zwar stellen sie strukturelle Benachteiligungen fest, aber Chancengleichheit dient kaum als "normatives Ideal"
+- Ergebnisgleichheit wird von allen abgelehnt
+    + solange es sich auf ökonomische Dinge bezieht (Einkommen, Güter)
+    + Im Rahmen des Rechts sollten alle gleich beurteilt werden (Menschen aus privilegierten Schichten sollten nicht weniger oft bestraft werden)
+    + Einerseits gilt Ergebnisgleichheit als *praktisch unrealisierbar*, andrerseits als *normativ inakzeptabel*
+    + **Unrealisierbarkeit**
+        * wird auf menschliche Grundzüge zurückgeführt: Der Mensch sei an sich individualistisch, ehrgeizig, habgierig
+    + **Normativ unattraktiv**
+        * Auch Menschen aus unteren Schichten (Langzeitarbeitslose) meinen, dass dann ein Leistungsanreiz fehlen würde.
+        * Also: Selbst Menschen, die von einer Egalisierung der Güter am meisten profitieren würden, lehnen diese normativ ab. Das Prinzip der Entlohnungsdifferenz ist also (Sachweh) zufolge sehr stark in den "normativen Haushalt" moderner Marktwirtschaften verankert
+        * Insofern ist das auch ein interessanter Schnittpunkt mit der Theorie der *kognitiven Dissonanz*. Diese Theorie würde hier sagen: genau, aufgrund der hohen kognitiven Dissonanz müssen! diese unterprivilegierten Menschen die Ungleichheit (am stärksten) rechtfertigen. Die Soziologie würde hingegen sagen, dass das Prinzip der Entlohnungsdifferenz sehr stark normativ verankert sei, daher wird es auch von Leuten "unten" als Rechtfertigungsmetapher verwendet.
+
+
+
+
 
 
 
