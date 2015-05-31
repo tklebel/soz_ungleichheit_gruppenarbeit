@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="820"
+   height="540"
+   id="svg2994"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Leistung_Argumente.svg">
+  <defs
+     id="defs2996" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="464.28571"
+     inkscape:cy="337.14286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="908"
+     inkscape:window-height="552"
+     inkscape:window-x="254"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2999">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-512.36218)">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:Sans"
+       x="94.285721"
+       y="1040.6478"
+       id="text3021"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3023"
+         x="94.285721"
+         y="1040.6478">Individuelle Leistungsbereitschaft</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:Sans"
+       x="506.62054"
+       y="794.36218"
+       id="text3025"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3027"
+         x="512.43304"
+         y="794.36218">Kompensation der </tspan><tspan
+         sodipodi:role="line"
+         x="506.62054"
+         y="854.36218"
+         id="tspan3069">Ausbildungszeit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:Sans"
+       x="220.50713"
+       y="570.07648"
+       id="text3029"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3031"
+         x="226.31963"
+         y="570.07648">Motivation zur </tspan><tspan
+         sodipodi:role="line"
+         x="226.31963"
+         y="630.07648"
+         id="tspan3067">Positionsübernahme </tspan><tspan
+         sodipodi:role="line"
+         x="220.50713"
+         y="690.07648"
+         id="tspan3033" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3035"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Serif;-inkscape-font-specification:Sans"
+       transform="translate(0,512.36218)"><flowRegion
+         id="flowRegion3037"><rect
+           id="rect3039"
+           width="357.14285"
+           height="114.28571"
+           x="148.57143"
+           y="137.14285" /></flowRegion><flowPara
+         id="flowPara3043" /></flowRoot>  </g>
+</svg>
