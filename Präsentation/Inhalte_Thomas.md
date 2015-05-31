@@ -1,7 +1,7 @@
 # Zusammenstellung der Folieninhalte
 
 - **Gerechtigkeit**
-    + Gerechtigkeitsbegriff hate eine Legitimationsfunktion: ""Wem es gelingt, ihn zu 'besetzen', der hat gute Aussichten, Zustimmung für das von ihm Päferierte, als 'richtig' erachtete oder Deklarierte zu finden"" (S 41)
+    + Gerechtigkeitsbegriff hat eine Legitimationsfunktion: ""Wem es gelingt, ihn zu 'besetzen', der hat gute Aussichten, Zustimmung für das von ihm Päferierte, als 'richtig' erachtete oder Deklarierte zu finden"" (S 41)
 - Leistung
     + "Der Grundsatz, dass eine Person eine bestimmte Belohnung, zum Beispiel in Form von Einkommen oder höher dotierten Arbeitsplätzen, aufgrund ihrer eigenen 'Leistung' verdiene, bildet den normativen Kern der Rechtfertigung sozioökonomischer Ungleichheiten in modernen, marktwirtschaftlich organisierten Gesellschaften." (Im Gegensatz und als Fortschritt zum Feudalsystem)
     + Bedingungen:
@@ -22,9 +22,11 @@
             - (Warum? Könnte sein, dass Leistung unterschiedliche Bedeutung hat)
 - Bedarf
     + Definition
+        * Soziokulturelles Existenzminimum
+        * allgemeingültig und als 'normal' anerakannte Lebensweise
     + Umverteilung
     + relative Privilegiertheit
-    + Leistungs- und Bedarfprinzip lassen sich verbinden
+    + Leistungs- und Bedarfprinzip: ein Widerspruch?
 - Gleichheit
     + Chancengleichheit oder Ergebnisgleichheit?
         * (Chancengleichheit. (Notizen aus dem Exzerpt))
