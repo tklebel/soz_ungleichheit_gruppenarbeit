@@ -372,6 +372,11 @@ img.fit {
     cursor: pointer;
 }
 
+#overview_deprivation { display: none }
+.impress-on-overview_deprivation .step {
+    opacity: 1;
+}
+
 
 #leistung_zitat {
     text-align: center;
