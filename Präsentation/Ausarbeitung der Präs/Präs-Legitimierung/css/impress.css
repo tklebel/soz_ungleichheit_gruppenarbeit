@@ -391,6 +391,166 @@ img.fit {
     margin-bottom: 2em;
 }
 
+
+#jenseits_annahmen .size {
+    font-size: 70%;
+}
+
+#jenseits_annahmen .p1 {
+    position: relative;
+    left: 0%;
+    max-width: 80%;
+    padding-bottom: 1.5em;
+    text-align: left;
+}
+
+#jenseits_annahmen .p2 {
+    position: relative;
+    left: 25%;
+    max-width: 75%;
+    padding-bottom: 1.5em;
+    text-align: right;
+}
+
+#jenseits_annahmen .p3 {
+    position: relative;
+    left: 7%;
+    max-width: 75%;
+    padding-bottom: 1.5em;
+    text-align: left;
+}
+
+#overview_jenseits { display: none }
+.impress-on-overview_jenseits .step {
+    opacity: 1;
+}
+
+#vergleich_unten_eigenschaften .size {
+    font-size: 70%;
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+
+#vergleich_unten_eigenschaften .p1 {
+    position: absolute;
+    top: 5%;
+    left: 7%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#vergleich_unten_eigenschaften .p2 {
+    position: absolute;
+    top: 0%;
+    left: 40%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#vergleich_unten_eigenschaften .p3 {
+    position: absolute;
+    top: 8%;
+    left: 80%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#vergleich_unten_eigenschaften .p4 {
+    position: absolute;
+    top: 29%;
+    left: 0%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#vergleich_unten_eigenschaften .p5 {
+    position: absolute;
+    top: 40%;
+    left: 44%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: right;
+}
+
+#vergleich_unten_eigenschaften .p6 {
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+
+#vergleich_unten_eigenschaften .unten {
+    font-size: 200%;
+    position: absolute;
+    top: 13%;
+    left: 27%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+#vergleich_unten_eigenschaften .oben {
+    font-size: 200%;
+    position: absolute;
+    top: 70%;
+    left: 27%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+#ignorierte_ungerechtigkeit_eigenschaften .size {
+    font-size: 100%;
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+
+#ignorierte_ungerechtigkeit_eigenschaften .p1 {
+    position: absolute;
+    top: 5%;
+    left: 0%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#ignorierte_ungerechtigkeit_eigenschaften .p2 {
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: right;
+}
+
+#ignorierte_ungerechtigkeit_eigenschaften .p3 {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    max-width: 75%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#ignorierte_ungerechtigkeit_eigenschaften .p4 {
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    max-width: 70%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+
 #overview_ende { display: none }
 .impress-on-overview_ende .step {
     opacity: 1;
