@@ -141,6 +141,7 @@ h2 {
 h3 {
     font-weight: normal;
     font-size: 100%;
+    text-align: center;
 }
 
 /*
@@ -545,6 +546,128 @@ img.fit {
     position: absolute;
     top: 70%;
     left: 25%;
+    max-width: 70%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+/*#dissonanz_intro h1 {
+    font-size: 150%;
+    margin-bottom: 0;
+}
+
+#dissonanz_intro img.center {
+    display: block;
+    max-height: 400px;
+    margin-top: 10px;
+    padding: 20px;
+}
+*/
+
+#dissonanz_motivation h3 {
+    font-size: 120%;
+}
+
+#dissonanz_motivation .size {
+    font-size: 80%;
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#dissonanz_motivation .p1 {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    max-width: 70%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+#dissonanz_motivation .p2 {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    max-width: 80%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+#dissonanz_reduktion h3 {
+    position: absolute;
+    top: 0;
+}
+
+#dissonanz_reduktion .size {
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#dissonanz_reduktion img.center {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    display: block;
+    max-width: 700px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+/*#dissonanz_reduktion img.center {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 1.5em;
+    display: block;
+    max-height: 400px;
+    margin-top: 10px;
+    padding: 20px;
+}*/
+
+#dissonanz_studie h3 {
+    font-size: 80%;
+    padding-bottom: 2em;
+}
+
+#dissonanz_studie p{
+    font-size: 60%;
+    text-align: center;
+}
+
+#dissonanz_studie_gründe .size {
+    font-size: 80%;
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#dissonanz_studie_gründe .p1 {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    max-width: 70%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+#dissonanz_studie_gründe .p2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    max-width: 70%;
+    padding-bottom: 0em;
+    text-align: center;
+}
+
+#dissonanz_studie_gründe .p3 {
+    position: absolute;
+    top: 70%;
+    left: 20%;
     max-width: 70%;
     padding-bottom: 0em;
     text-align: center;
