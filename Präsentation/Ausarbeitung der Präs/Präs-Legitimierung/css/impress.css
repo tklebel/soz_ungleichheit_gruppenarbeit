@@ -378,19 +378,74 @@ img.fit {
     opacity: 1;
 }
 
+#deprivation_martin h2 {
+    font-size: 200%;
+}
+
+#deprivation_delhey h2 {
+    font-size: 200%;
+}
+
 
 #leistung_zitat {
     text-align: center;
 }
 
+#chancengleichheit h2 {
+    font-size: 190%;
+}
 
-#chancengleichheit {
+#chancengleichheit .size {
+    font-size: 90%;
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#chancengleichheit .p1 {
+    position: absolute;
+    font-size: 140%;
+    top: 10%;
+    left: 34%;
+    max-width: 80%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#chancengleichheit .p2 {
+    position: absolute;
+    top: 30%;
+    left: 0%;
+    max-width: 80%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#chancengleichheit .p3 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    max-width: 80%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+#chancengleichheit .p4 {
+    position: absolute;
+    top: 75%;
+    left: 20%;
+    max-width: 80%;
+    padding-bottom: 0em;
+    text-align: left;
+}
+
+/*#chancengleichheit {
     font-size: 180%;
 }
 
 #chancengleichheit p {
     margin-bottom: 2em;
-}
+}*/
 
 
 #jenseits_annahmen .size {
@@ -639,37 +694,47 @@ img.fit {
     text-align: center;
 }
 
+#dissonanz_studie_gründe h2 {
+    margin-bottom: 0.1em;
+}
+
 #dissonanz_studie_gründe .size {
-    font-size: 80%;
+    font-size: 65%;
     width: 100%;
-    height: 500px;
+    height: 600px;
     position: relative;
 }
 
 #dissonanz_studie_gründe .p1 {
     position: absolute;
-    top: 15%;
-    left: 2%;
-    max-width: 70%;
+    top: 5%;
+    left: 0%;
+    max-width: 80%;
     padding-bottom: 0em;
-    text-align: center;
+    text-align: left;
 }
 
 #dissonanz_studie_gründe .p2 {
     position: absolute;
-    top: 40%;
-    left: 50%;
-    max-width: 70%;
+    top: 43%;
+    left: 15%;
+    max-width: 85%;
     padding-bottom: 0em;
-    text-align: center;
+    text-align: right;
 }
 
 #dissonanz_studie_gründe .p3 {
     position: absolute;
-    top: 70%;
-    left: 20%;
-    max-width: 70%;
+    top: 80%;
+    left: 5%;
+    max-width: 85%;
     padding-bottom: 0em;
+    text-align: center;
+}
+
+#abschluss p {
+    font-size: 80%;
+    padding-bottom: 1em;
     text-align: center;
 }
 
